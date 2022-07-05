@@ -7,10 +7,10 @@ summary: 'How the schematic, workflow, and parameter which use in this Highthrou
 ---
 
 ## Schemes of Highthroughput Calculation
-![Image](Figures/Scheme.png)
+![Image](../../public/static/images/Scheme.png)
 
 ## Workflow Program
-![Image](Figures/Workflow.png)
+![Image](../../public/static/images/Workflow.png)
 
 ## Parameter Calculation
-![Image](Figures/Parameters.png)
+![Image](../../public/static/images/Parameters.png)
