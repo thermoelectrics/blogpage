@@ -1,9 +1,9 @@
 ---
-name: Tails Azimuth
+name: Rifky Syariati
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Special Appointed Assistant Professor
+company: Kanazawa University
+email: rifky@cphys.s.kanazawa-u.ac.jp
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
 github: https://github.com
