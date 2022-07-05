@@ -1,15 +1,16 @@
 ---
 title: Highthroughput Calculation Methods
 date: '2022-07-05'
-tags: ['schematic']
+tags: ['schematic', 'methods']
 draft: false
-summary: 'How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.'
+summary: 'How the schematic, workflow, and parameter which use in this Highthroughput calculation'
 ---
 
 ## Schemes of Highthroughput Calculation
-
+![Image](Figures/Scheme.png)
 
 ## Workflow Program
-
+![Image](Figures/Workflow.png)
 
 ## Parameter Calculation
+![Image](Figures/Parameters.png)
