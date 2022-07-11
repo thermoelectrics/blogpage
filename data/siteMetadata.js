@@ -1,13 +1,13 @@
 const siteMetadata = {
-  title: 'Thermoelectric Project Database',
+  title: 'Thermoelectric Database Project',
   author: 'Rifky Syariati',
-  headerTitle: 'Thermoelectric Project Database Blog',
-  description: 'A blog created for updating the progress of thermoelectric database projest',
+  headerTitle: 'Thermoelectric Database Project Blog',
+  description: 'A blog created for updating the progress of thermoelectric database project',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo_TE.png',
+  siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
